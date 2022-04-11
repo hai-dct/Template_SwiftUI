@@ -1,0 +1,7 @@
+{
+    "project_name": "Awesome",
+    "company_name": "Monstar-Lab Inc",
+    "bundle_identifier": "com.{{ cookiecutter.company_name | replace(' ', '-') | lower }}.{{ cookiecutter.project_name | replace(' ', '-') | lower }}",
+    "lead_dev_name": "Your Name",
+    "short_description": "This is a good app!"
+}
